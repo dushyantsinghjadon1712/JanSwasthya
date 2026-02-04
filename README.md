@@ -41,4 +41,4 @@ JanSwasthya provides:
 - `screenshots/` → output proofs
 
 ## Author
-Dushyant Jadon
+Dushyant Singh Jadon
