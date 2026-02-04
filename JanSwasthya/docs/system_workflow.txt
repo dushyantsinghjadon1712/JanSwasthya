@@ -1,0 +1,105 @@
+Modules + Workflow (How the hospital system works)
+
+
+We are locking these modules for JanSwasthya:
+1. Patient Registration
+2. Department & Doctor Setup
+3. OPD Visit Creation
+4. Token Generation (Queue)
+5. Doctor Consultation + Prescription
+6. Pharmacy Stock Management
+7. Alerts
+8. Reports
+
+?? Workflow A: Patient comes to hospital (Reception)
+? Step A1 — Register Patient
+Receptionist enters:
+* Name
+* Gender
+* DOB
+* Phone
+* Address
+Output:
+* patient_id generated
+
+?? Workflow B: Patient wants OPD consult
+? Step B1 — Select Department
+Example: General Medicine / ENT / Orthopedic
+? Step B2 — Create Visit Record
+A “Visit” means:
+one patient meeting one doctor on one date
+Data stored:
+* patient_id
+* department_id
+* doctor_id
+* date
+* symptoms (optional)
+Output:
+* visit_id generated
+
+?? Workflow C: Issue OPD Token
+? Step C1 — Token generated
+Token system rule:
+Token numbers restart daily for each department
+Example:
+* ENT today tokens: 1,2,3…
+* Ortho today tokens: 1,2,3…
+Stored in:
+* opd_tokens table
+Output:
+* token_no
+
+?? Workflow D: Doctor Consultation
+? Step D1 — Doctor opens Visit
+Doctor sees:
+* patient details
+* symptoms
+? Step D2 — Doctor updates diagnosis
+Doctor enters:
+* diagnosis
+* notes
+
+?? Workflow E: Prescription
+? Step E1 — Create Prescription
+One visit can have one prescription.
+? Step E2 — Add medicines
+Doctor selects:
+* medicine
+* dosage
+* duration
+* quantity
+Stored in:
+* prescriptions
+* prescription_items
+
+?? Workflow F: Pharmacy
+? Step F1 — Medicine OUT
+Pharmacist gives medicine and system:
+* reduces stock
+System stores OUT transaction in:
+* stock_transactions
+
+?? Workflow F: Pharmacy
+? Step F1 — Medicine OUT
+Pharmacist gives medicine and system:
+* reduces stock
+System stores OUT transaction in:
+* stock_transactions
+
+?? Workflow H: Reports (Admin)
+Admin can see:
+* daily department load
+* top medicines used
+* expiring medicines
+* low stock medicines
+* doctor-wise patient count
+
+System Workflow
+1. Patient registration generates patient_id
+2. Visit is created with department and doctor allocation
+3. OPD token is issued department-wise per day
+4. Doctor records diagnosis & generates prescription
+5. Pharmacy issues medicines and updates stock using OUT transactions
+6. Low-stock alerts are generated automatically
+7. Reports are generated for admin monitoring and auditing
+
