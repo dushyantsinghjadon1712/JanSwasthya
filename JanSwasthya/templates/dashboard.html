@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2 class="text-3xl font-bold mb-10 animate__animated animate__fadeIn">
+Hospital Command Center
+</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+
+<a href="/register_patient"
+ class="glass p-10 rounded-2xl hover:scale-105 transition animate__animated animate__fadeInUp">
+ <h3 class="text-xl text-indigo-400 font-bold">Reception</h3>
+ <p class="text-gray-300">Patient onboarding</p>
+</a>
+
+<a href="/doctor_queue"
+ class="glass p-10 rounded-2xl hover:scale-105 transition animate__animated animate__fadeInUp">
+ <h3 class="text-xl text-green-400 font-bold">Doctor</h3>
+ <p class="text-gray-300">Consultations</p>
+</a>
+
+<a href="/pharmacy"
+ class="glass p-10 rounded-2xl hover:scale-105 transition animate__animated animate__fadeInUp">
+ <h3 class="text-xl text-red-400 font-bold">Pharmacy</h3>
+ <p class="text-gray-300">Medicine issuing</p>
+</a>
+
+</div>
+
+{% endblock %}

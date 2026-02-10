@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div id="pharmacyApp">
+
+<h2 class="text-2xl font-bold mb-6 text-red-400">
+Pharmacy Queue
+</h2>
+
+<div class="glass rounded-xl overflow-hidden">
+<table class="w-full text-center">
+
+<tr class="bg-red-600/30">
+<th class="p-4">Prescription</th>
+<th>Patient</th>
+<th>Action</th>
+</tr>
+
+<tr v-for="p in prescriptions"
+ class="border-b border-white/10 hover:bg-white/5">
+
+<td class="p-4">[[ p.prescription_id ]]</td>
+<td>[[ p.full_name ]]</td>
+
+<td>
+<a :href="'/pharmacy/'+p.prescription_id"
+ class="bg-indigo-600 px-4 py-1 rounded">
+ View
+</a>
+</td>
+
+</tr>
+
+</table>
+</div>
+
+</div>
+
+<script>
+Vue.createApp({
+ delimiters: ['[[', ']]'],
+ data(){
+  return {
+   prescriptions: {{ prescriptions|tojson }}
+  }
+ }
+}).mount('#pharmacyApp')
+</script>
+
+{% endblock %}
