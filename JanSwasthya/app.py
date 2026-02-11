@@ -12,7 +12,7 @@ def get_db_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Dushyant@1712",
+        password="your_password",
         database="janswasthya_db",
         autocommit=True
     )
@@ -406,3 +406,4 @@ def issue_medicine(pid):
 
 if __name__ == "__main__":
     app.run(debug=True)
+
