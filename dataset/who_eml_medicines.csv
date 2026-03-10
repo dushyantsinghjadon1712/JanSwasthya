@@ -1,0 +1,1111 @@
+generic_name,dosage_form,strength,therapeutic_category,who_list_section,notes,unit,reorder_level
+lidocaine + epinephrine (adrenaline),Injection,1%,WHO EML 2023,Core,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",vial,20
+lidocaine + epinephrine (adrenaline),Injection,2% (hydrochloride or sulfate) + epinephrine,WHO EML 2023,Core,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",vial,20
+lidocaine + epinephrine (adrenaline),Injection,30 mg/mL (hydrochloride) in 1 mL ampoule,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",vial,20
+ephedrine,Injection,1 mg (sulfate) in 1 mL ampoule,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",vial,20
+ephedrine,Injection,1 mg/mL,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",vial,20
+ephedrine,Oral liquid,2 mg/mL,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",bottle,20
+ephedrine,Tablet,7.5 mg,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",strip,20
+ephedrine,Tablet,15 mg,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",strip,20
+ephedrine,Injection,10 mg (sulfate or hydrochloride) in 1 mL ampoule,WHO EML 2023,Complementary,"1. ANAESTHETICS, PREOPERATIVE MEDICINES AND MEDICAL GASES",vial,20
+ephedrine,Suppository,50 mg to 150 mg,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Tablet,100 mg to 500 mg,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Oral liquid,"100 mg/5 mL , 200 mg/5 mL",WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+acetylsalicylic acid,Tablet,200 mg,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,400 mg,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,600 mg,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Oral liquid,"120 mg/5 mL or 125 mg/5 mL**, 250 mg/5 mL",WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+acetylsalicylic acid,Suppository,"100 mg, 250 mg",WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Tablet,"250 mg, 325 mg, 500 mg",WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,"100 mg, 250 mg",WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,30 mg (phosphate),WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Transdermal patch,12 micrograms/hr,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Transdermal patch,25 micrograms/hr,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Granules,20 mg to 200 mg,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,packet,20
+acetylsalicylic acid,Injection,10 mg (morphine hydrochloride or morphine sulfate) in,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+acetylsalicylic acid,Therapeutic,Oral liquid: 10 mg/5 mL (morphine hydrochloride or morphine,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Tablet,10 mg to 200mg (morphine hydrochloride or,WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,10 mg (morphine sulfate),WHO EML 2023,Core,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,5 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,10 mg (hydrochloride),WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Oral liquid,5 mg/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+acetylsalicylic acid,Oral liquid,10 mg/5 mL (hydrochloride),WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+acetylsalicylic acid,Concentrate,5 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Concentrate,10 mg/mL (hydrochloride),WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+acetylsalicylic acid,Tablet,10 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,25 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,75 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Injection,50 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+acetylsalicylic acid,Tablet,50 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Injection,4 mg/mL (as disodium phosphate salt) in 1 mL ampoule,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+acetylsalicylic acid,Oral liquid,2 mg/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+acetylsalicylic acid,Tablet,2 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Tablet,4 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+acetylsalicylic acid,Injection,5 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+acetylsalicylic acid,Rectal gel,"5 mg/mL in 0.5 mL, 2 mL, 4 mL rectal delivery system",WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+diazepam,Rectal solution,"2 mg/mL in 1.25 mL, 2.5 mL rectal tube",WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+diazepam,Rectal solution,4 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+diazepam,Tablet,5 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+diazepam,Tablet,10 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+diazepam,Capsule,100 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,strip,20
+docusate sodium,Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+docusate sodium,fluoxetine,20 mg (as hydrochloride),WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Injection,5 mg in 1 mL ampoule,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Oral liquid,2 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+docusate sodium,Solid,0.5 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Solid,2mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Solid,5 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Injection,20 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Injection,400 micrograms/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Injection,600 micrograms/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Transdermal patch,1 mg/72 hours,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Oral liquid,3.1 to 3.7 g/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+docusate sodium,loperamide,2 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Injection,5 mg/mL (hydrochloride) in 2 mL ampoule,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Oral liquid,5 mg/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+docusate sodium,Solid,10 mg (hydrochloride),WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Injection,1 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Injection,5 mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,vial,20
+docusate sodium,Oral liquid,2mg/mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+docusate sodium,Solid,7.5 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Solid,15 mg,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Therapeutic,Oral liquid: 4 mg base/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Solid,4 mg base,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Solid,8 mg base,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,unit,20
+docusate sodium,Oral liquid,7.5 mg/5 mL,WHO EML 2023,Complementary,2. MEDICINES FOR PAIN AND PALLIATIVE CARE,bottle,20
+docusate sodium,Injection,4 mg/mL (as disodium phosphate salt) in 1 mL ampoule,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,vial,20
+docusate sodium,Injection,1 mg/mL (as hydrochloride or hydrogen tartrate) in 1 mL,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,vial,20
+epinephrine (adrenaline),hydrocortisone,100 mg (as sodium succinate) in vial,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,unit,20
+epinephrine (adrenaline),Therapeutic,Tablet: 10 mg,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,unit,20
+epinephrine (adrenaline),Oral liquid,5 mg/mL,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,bottle,20
+epinephrine (adrenaline),Tablet,5 mg,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,strip,20
+epinephrine (adrenaline),Tablet,25 mg,WHO EML 2023,Core,3. ANTIALLERGICS AND MEDICINES USED IN ANAPHYLAXIS,strip,20
+epinephrine (adrenaline),Injection,200 mg/mL in 10 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+acetylcysteine,Oral liquid,10%,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,bottle,20
+acetylcysteine,Oral liquid,20%,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,bottle,20
+acetylcysteine,Injection,1 mg (sulfate) in 1 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+acetylcysteine,Injection,100 mg/mL in 10 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+methylthioninium chloride,Injection,10 mg/mL in 10 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+methylthioninium chloride,Injection,400 micrograms (hydrochloride) in 1 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+methylthioninium chloride,penicillamine,250 mg,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,unit,20
+methylthioninium chloride,Injection,30 mg/mL in 10 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+methylthioninium chloride,Injection,250 mg/mL in 50 mL ampoule,WHO EML 2023,Core,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+methylthioninium chloride,deferoxamine,500 mg (mesilate) in vial,WHO EML 2023,Complementary,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,unit,20
+methylthioninium chloride,dimercaprol,50 mg/mL in 2 mL ampoule,WHO EML 2023,Complementary,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,unit,20
+methylthioninium chloride,Injection,5 mg/mL (sulfate) in 20 mL ampoule or 1 g/mL (base) in,WHO EML 2023,Complementary,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+fomepizole,Injection,200 mg/mL in 5 mL ampoule,WHO EML 2023,Complementary,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,vial,20
+fomepizole,succimer,100 mg,WHO EML 2023,Complementary,4. ANTIDOTES AND OTHER SUBSTANCES USED IN POISONINGS,unit,20
+fomepizole,Oral liquid,100 mg/5 mL,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,bottle,20
+fomepizole,carbamazepine,100 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+fomepizole,carbamazepine,200 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+fomepizole,Tablet,100 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+fomepizole,Tablet,200 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+fomepizole,Tablet,400 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+fomepizole,Rectal gel,"5 mg/mL in 0.5 mL, 2 mL, 4 mL rectal delivery system",WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+diazepam,Rectal solution,"2 mg/mL in 1.25 mL, 2.5 mL rectal tube",WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+diazepam,Rectal solution,4 mg/mL,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+diazepam,Tablet,25 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+diazepam,Tablet,50 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+diazepam,Tablet,100 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+diazepam,Tablet,200 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+diazepam,Tablet,2 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+diazepam,Tablet,5 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+diazepam,Oral solution,100 mg/mL,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,bottle,20
+levetiracetam,Tablet,250 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+levetiracetam,Tablet,500 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+levetiracetam,Tablet,750 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+levetiracetam,Tablet,1000 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+levetiracetam,Injection,2 mg/mL in 1 mL ampoule,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Injection,4 mg/mL in 1 mL ampoule,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Injection,0.5 g/mL in 2 mL ampoule (equivalent to 1 g in 2 mL,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Solution,"5 mg/mL in 0.5 mL, 1 mL,",WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+levetiracetam,midazolam,1 mg/mL in 5 mL vial,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+levetiracetam,midazolam,5 mg/mL in 1 mL or 3 mL vial,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+levetiracetam,Injection,"30 mg/mL or 60 mg/mL , 200 mg/mL (sodium)",WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Oral liquid,15 mg/5 mL,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,bottle,20
+levetiracetam,Tablet,15 mg to 100 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+levetiracetam,Injection,50 mg/mL (phenytoin sodium),WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Oral liquid,30 mg/5 mL (phenytoin),WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,bottle,20
+phenytoin,Solid,25 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+phenytoin,Solid,50 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+phenytoin,Solid,100 mg (phenytoin sodium),WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+phenytoin,Tablet,50 mg (phenytoin),WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+phenytoin,Oral liquid,200 mg/5 mL,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,bottle,20
+phenytoin,child-bearing,100 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+are ineffective or not tolerated because of the high risk,of,200 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+are ineffective or not tolerated because of the high risk,of,500 mg,WHO EML 2023,Core,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+are ineffective or not tolerated because of the high risk,Capsule,250 mg,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+ethosuximide,Oral liquid,250 mg/5 mL,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,bottle,20
+ethosuximide,Concentrate solution for infusion,500 mg/5mL in 5 mL vial,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Solution for infusion,5 mg/mL,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Solution for infusion,10 mg/mL,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Solution for infusion,15 mg/mL in 100 mL,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+levetiracetam,Injection,"100 mg/mL in 3 mL, 4 mL, 10 mL ampoule",WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+defects and developmental disorders in,Tablet,10 mg,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+defects and developmental disorders in,Injection,20 mg/mL,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+defects and developmental disorders in,Injection,40 mg/mL in pre-filled,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+glatiramer acetate,Injection,500 mg/50 mL in 50 mL vial,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+glatiramer acetate,Injection,5 mg (lactate) in 1 mL ampoule,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,vial,20
+glatiramer acetate,Tablet,2 mg (hydrochloride),WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,strip,20
+glatiramer acetate,Therapeutic,Tablet: 100 mg + 10 mg,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+glatiramer acetate,Therapeutic,100 mg + 25 mg,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+glatiramer acetate,Therapeutic,250 mg + 25 mg,WHO EML 2023,Complementary,5. MEDICINES FOR DISEASES OF THE NERVOUS SYSTEM,unit,20
+glatiramer acetate,albendazole,400 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+glatiramer acetate,Tablet,3 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+glatiramer acetate,Tablet,50 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+glatiramer acetate,Tablet,150 mg (as hydrochloride),WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+glatiramer acetate,mebendazole,100 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+glatiramer acetate,mebendazole,500 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+glatiramer acetate,niclosamide,500 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+glatiramer acetate,Tablet,"150 mg, 500 mg",WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,Tablet,600 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,pyrantel,250 mg (as embonate or pamoate),WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+praziquantel,albendazole,400 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+praziquantel,Tablet,50 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,Tablet,100 mg (dihydrogen citrate),WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,Tablet,3 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,Tablet,"150 mg, 500 mg",WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,triclabendazole,250 mg,WHO EML 2023,Core,6. ANTI-INFECTIVE MEDICINES,unit,20
+praziquantel,Capsule,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,Oral liquid,250 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+praziquantel,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+albendazole,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+albendazole,mebendazole,"100 mg , 500 mg",WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+albendazole,Tablet,"150 mg, 500 mg",WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+praziquantel,Tablet,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+praziquantel,Injection,50 mg/mL (as sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+praziquantel,Injection,250 mg/mL (as sulfate) in 2 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+amikacin,Powder for injection,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+amikacin,Powder for injection,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+amikacin,Powder for injection,1 g (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+amikacin,Powder for oral liquid,125 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+amikacin,Powder for oral liquid,250 mg/5 mL (as trihydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+amikacin,Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+amikacin,Solid,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+amikacin,Solid,1g (as trihydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+amikacin,Tablet,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+amikacin,Tablet,500 mg (as trihydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+amikacin,Powder for injection,500 mg (as sodium) + 100 mg (as potassium salt),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+amikacin,Powder for injection,1000 mg (as,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+amikacin,Powder for oral liquid,125 mg (as trihydrate)+ 31.25 mg (as potassium salt)/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+amikacin,Tablet,500 mg (as trihydrate) + 125 mg (as potassium salt),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+amikacin,Tablet,875 mg (as trihydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+amikacin,Tablet,200 mg (as trihydrate) + 28.5 mg (as potassium salt),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+infections (mild to moderate),Powder for injection,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (mild to moderate),Powder for injection,1 g (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+ampicillin,Powder for injection,1.2 million IU (≈ 900 mg) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+ampicillin,Powder for injection,2.4 million IU (≈ 1.8 g) in,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+benzathine benzylpenicillin,Powder for injection,600 mg (= 1 million IU),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+benzathine benzylpenicillin,Powder for injection,3 g (= 5 million IU) (sodium or,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+benzathine benzylpenicillin,Powder for oral liquid,125 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+benzathine benzylpenicillin,Powder for oral liquid,250 mg/5 mL (anhydrous),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+benzathine benzylpenicillin,Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benzathine benzylpenicillin,Solid,500 mg (as monohydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benzathine benzylpenicillin,Tablet,125 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+benzathine benzylpenicillin,Tablet,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+cefalexin,Powder for injection,1 g (as sodium salt) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+cefazolin a,Oily suspension for injection,0.5 g/mL (as sodium succinate) in 2 mL ampoule,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+cefazolin a,chloramphenicol,1 g (as sodium succinate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+cefazolin a,Capsule,150 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+cefazolin a,Injection,150 mg/mL (as phosphate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+cefazolin a,Injection,600 mg/4 mL (as phosphate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+cefazolin a,Injection,900 mg/6 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+clindamycin,Powder for oral liquid,75 mg/5 mL (as palmitate hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+clindamycin,Capsule,"250 mg , 500 mg",WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+clindamycin,Capsule,1 g (as sodium),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+clindamycin,Powder for injection,"250 mg , 500 mg (as sodium) in vial",WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+clindamycin,Powder for oral liquid,"125 mg/5 mL, 250 mg/5 mL (as sodium)",WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+penicillins),Oral liquid,50 mg/5 mL (calcium),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+penicillins),Powder for oral liquid,25 mg/5 mL (monohydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+penicillins),Powder for injection,100 mg in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+penicillins),Solid,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+penicillins),Solid,100 mg (as hyclate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+penicillins),Tablet,100 mg (as monohydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+doxycycline a,Injection,10 mg/mL (as sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+doxycycline a,Injection,40 mg/mL (as sulfate) in 2 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+gentamicin,Injection,500 mg in 100 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+gentamicin,Oral liquid,200 mg/5 mL (as benzoate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+gentamicin,Suppository,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+gentamicin,Suppository,1 g,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+gentamicin,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+gentamicin,Tablet,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+gentamicin,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+gentamicin,Tablet,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+infections (severe),Oral liquid,25 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+infections (severe),Solid,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+infections (severe),Solid,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nitrofurantoin,Powder for oral liquid,250 mg/5 mL (as potassium),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+nitrofurantoin,Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nitrofurantoin,Solid,500 mg (as potassium),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+phenoxymethylpenicillin,Powder for injection,1 g (=1 million IU),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+phenoxymethylpenicillin,Powder for injection,3 g (=3 million IU) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+phenoxymethylpenicillin,Powder for injection,2 g (as hydrochloride) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+phenoxymethylpenicillin,Injection,80 mg + 16 mg/mL in 5 mL ampoule,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+phenoxymethylpenicillin,Injection,80 mg + 16 mg/mL in 10 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+phenoxymethylpenicillin,Oral liquid,200 mg + 40 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+phenoxymethylpenicillin,Tablet,100 mg + 20 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+phenoxymethylpenicillin,Tablet,400 mg + 80 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+phenoxymethylpenicillin,Tablet,800 mg + 160 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+sulfamethoxazole +,trimethoprim,100 mg + 20 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+dysentery,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dysentery,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dysentery,Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+trimethoprim,Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+trimethoprim,Solid,500 mg (anhydrous),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+trimethoprim,Powder for oral liquid,200 mg/5 mL (anhydrous),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+azithromycin,Powder for oral liquid,100 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+azithromycin,Solid,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+azithromycin,Solid,400 mg (as trihydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+dysentery,Powder for injection,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+dysentery,Powder for injection,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+dysentery,Powder for injection,1 g,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+dysentery,Powder for injection,2 g (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Powder for injection,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Powder for injection,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Powder for injection,1 g,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Powder for injection,2 g (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Powder for injection,750 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Powder for injection,1.5 g (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Oral liquid,250 mg/5 mL (anhydrous),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+infections (severe),Solution,2 mg/mL (as hyclate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+infections (severe),Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+infections (severe),Solid,500 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+moderate),Powder for oral liquid,125 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+moderate),Powder for oral liquid,250 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+moderate),Powder for injection,500 mg in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+moderate),Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+moderate),Solid,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+moderate),Powder for injection,2 g (as sodium) + 250 mg (as sodium),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+moderate),Powder for injection,4 g (as sodium) +,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+infections (severe),Capsule,125 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+infections (severe),Capsule,250 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+infections (severe),Powder for injection,1 g (as pentahydrate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+the preferred choice for acute,Powder for injection,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+the preferred choice for acute,Powder for injection,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+the preferred choice for acute,Powder for injection,1 g (as hydrochloride) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+the preferred choice for acute,cefiderocol,1 g (as sulfate toxylate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+the preferred choice for acute,ceftazidime,2 g + 0.5 g in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+the preferred choice for acute,ceftolozane,1 g + 0.5 g in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+the preferred choice for acute,Powder for injection,1 million IU (as colistemethate sodium) (equivalent,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+colistin,fosfomycin,2 g,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+colistin,fosfomycin,4 g (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+colistin,Injection,2 mg/mL in 300 mL bag,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+o linezolid,Powder for oral liquid,100 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+o linezolid,Tablet,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+o linezolid,Tablet,150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+o linezolid,meropenem,1 g (as trihydrate) + 1 g in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+o linezolid,Injection,500 mg/10 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+o linezolid,Powder for injection,500 000 IU (equivalent to 50 mg polymyxin B,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+o linezolid,clofazimine,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+o linezolid,clofazimine,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+o linezolid,Tablet,25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+o linezolid,Tablet,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+o linezolid,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+o linezolid,Oral liquid,20 mg/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+rifampicin,Solid,150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifampicin,Solid,300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifampicin,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,Tablet,400 mg (hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ethambutol,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ethambutol + isoniazid + pyrazinamide +,Tablet,275 mg + 75 mg + 400 mg + 150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,Tablet,275 mg + 75 mg + 150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,Tablet,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ethionamide,Tablet,125 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ethionamide,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ethionamide,Tablet,300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid,isoniazid,50 mg + 150 mg + 75 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+isoniazid,Tablet,75 mg + 150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid,Tablet,150 mg + 300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid + rifampicin,Tablet,50 mg + 75 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid + rifampicin,isoniazid,300 mg + 300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+isoniazid + rifampicin,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid + rifampicin,Tablet,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+pyrazinamide,Tablet,150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+pyrazinamide,Solid,150 mg.*,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifabutin,Oral liquid,20 mg/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+rifampicin,Tablet,150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,Tablet,300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,Injection,250 mg/mL (as sulfate) in 2 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+rifampicin,Powder for oral liquid,250 mg (as trihydrate) + 62.5 mg (as potassium,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+rifampicin,Tablet,500 mg (as trihydrate) + 125 mg (as potassium salt),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,Tablet,20 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+rifampicin,clofazimine,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifampicin,clofazimine,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifampicin,Therapeutic,Solid oral dosage form: 125 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifampicin,Therapeutic,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+rifampicin,Tablet,25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+delamanid,Tablet,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+delamanid,Tablet,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+delamanid,Tablet,125 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+delamanid,Tablet,250mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+delamanid,Tablet,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+delamanid,Tablet,750 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+levofloxacin,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+levofloxacin,Tablet,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+linezolid,Tablet,150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+linezolid,Therapeutic,Powder for injection: 500 mg (as trihydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+linezolid,Therapeutic,1 g (as trihydrate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+linezolid,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+moxifloxacin,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+moxifloxacin,Powder,5.52 g in sachet (equivalent to 4 g,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,packet,25
+p-aminosalicylate sodium,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+p-aminosalicylate sodium,streptomycin,1 g (as sulfate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+p-aminosalicylate sodium,Powder for injection,50 mg (liposomal complex) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+p-aminosalicylate sodium,Powder for injection,50 mg (as sodium deoxycholate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+p-aminosalicylate sodium,Vaginal cream,1%,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,tube,20
+p-aminosalicylate sodium,Vaginal cream,10%,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,tube,20
+clotrimazole,Vaginal tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+clotrimazole,Vaginal tablet,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+clotrimazole,Capsule,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+clotrimazole,Injection,2 mg/mL in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+fluconazole,Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+fluconazole,Powder for oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,25
+fluconazole,Capsule,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+flucytosine,Infusion,2.5 g in 250 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+flucytosine,Oral liquid,125 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+griseofulvin,Solid,125 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+griseofulvin,Solid,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+griseofulvin,Capsule,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+griseofulvin,Oral liquid,10 mg/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+griseofulvin,Lozenge,100 000 IU,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+griseofulvin,Oral liquid,100 000 IU/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+nystatin,Pessary,100 000 IU,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nystatin,Solid,500 000 IU,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nystatin,Tablet,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+nystatin,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+nystatin,Powder for injection,200 mg in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+nystatin,Powder for oral liquid,40 mg/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+nystatin,Therapeutic,Powder for injection: 50 mg (as sodium),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nystatin,Therapeutic,100 mg (as sodium) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nystatin,Therapeutic,Powder for injection: 250 mg (as sodium salt) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+nystatin,Tablet,300 mg (as sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+nystatin,Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+lamivudine,Tablet,150 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+lamivudine,Tablet,300 mg (tenofovir disoproxil fumarate – equivalent to,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+lamivudine,Capsule,250 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+lamivudine,Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+zidovudine,Solution,10 mg/mL in 20 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+zidovudine,Tablet,300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+zidovudine,Tablet,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+zidovudine,Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+zidovudine,Tablet,50 mg (dispersible),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+zidovudine,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+zidovudine,atazanavir,300 mg (as sulfate) + 100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+zidovudine,Tablet,75 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+zidovudine,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+zidovudine,Tablet,800 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+darunavira,Solid,40 mg + 10 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+lopinavir + ritonavir,Tablet,100 mg + 25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+lopinavir + ritonavir,Tablet,200 mg + 50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+lopinavir + ritonavir,ritonavir,25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+lopinavir + ritonavir,ritonavir,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+lopinavir + ritonavir,Tablet,10 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dolutegravir a,Tablet,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dolutegravir a,Granules,100 mg in sachet,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,packet,20
+dolutegravir a,Tablet,25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dolutegravir a,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dolutegravir a,abacavir,120 mg (as sulfate) + 60 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+dolutegravir a,Tablet,50 mg + 300 mg + 300 mg (tenofovir disoproxil fumarate –,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+equivalent to 245 mg tenofovir disoproxil),Tablet,600 mg + 200 mg + 300 mg (tenofovir disoproxil fumarate,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+equivalent to 245 mg tenofovir disoproxil),Tablet,400 mg + 300 mg + 300 mg (tenofovir disoproxil fumarate,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+efavirenz + lamivudine + tenofovir,Tablet,30 mg + 60 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+efavirenz + lamivudine + tenofovir,Tablet,150 mg + 300 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+isoniazid + pyridoxine + sulfamethoxazole +,Tablet,300 mg + 25 mg + 800 mg + 160 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+trimethoprim,Injection,800 mg and 1 g in 10 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+trimethoprim,Solid,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+trimethoprim,Solid,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+trimethoprim,Solid,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+trimethoprim,Tablet,450 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+trimethoprim,Capsule,30 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+trimethoprim,Capsule,45 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+trimethoprim,Capsule,75 mg (as phosphate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+infection in critically ill hospitalized patients,Powder,50 mg/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,packet,20
+infection in critically ill hospitalized patients,Tablet,450 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+infection in critically ill hospitalized patients,Oral liquid,0.05 mg/mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+entecavir,Tablet,0.5 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+entecavir,Tablet,1 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+entecavir,Tablet,300 mg (tenofovir disoproxil fumarate – equivalent to,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+tenofovir disoproxil fumarate,Tablet,30 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+tenofovir disoproxil fumarate,Tablet,60 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+tenofovir disoproxil fumarate,Tablet,60 mg + 400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+tenofovir disoproxil fumarate,Tablet,100 mg + 40 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+glecaprevir + pibrentasvir,Granules,50 mg + 20 mg in sachet,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,packet,20
+glecaprevir + pibrentasvir,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+glecaprevir + pibrentasvir,Tablet,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ravidasvir,Tablet,200 mg + 50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ravidasvir,Tablet,400 mg + 100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ravidasvir,Tablet,90 mg + 400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+ravidasvir,Injection,800 mg and 1 g in 10 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+ravidasvir,ribavirin*,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+ravidasvir,ribavirin*,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+ravidasvir,ribavirin*,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+anti-viral medicines,Tablet,500 mg (furoate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+diloxanide a,Therapeutic,Oral liquid: 200 mg/5 mL (as benzoate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,Powder for injection,50 mg (liposomal complex) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+diloxanide a,Powder for injection,50 mg (as sodium deoxycholate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+diloxanide a,Injection,1.5 g/5 mL in 5 mL ampoule,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+diloxanide a,miltefosine,10 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,miltefosine,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,paromomycin,750 mg of paromomycin base,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,Injection,100 mg/mL in 30 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+diloxanide a,Tablet,153 mg or 200 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+diloxanide a,Oily injection,80 mg/mL in 1 mL ampoule,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+diloxanide a,Tablet,20 mg + 120 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+diloxanide a,Injection,"ampoules, containing 60 mg anhydrous artesunic acid",WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+diloxanide a,Rectal,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,Rectal,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,Rectal,200 mg capsules (for,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+diloxanide a,Tablet,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+diloxanide a,Tablet,25 mg + 67.5 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+diloxanide a,Tablet,50 mg + 135 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+diloxanide a,Tablet,100 mg + 270 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,25 mg + 55 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,100 mg + 220 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Granules,20 mg + 60 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,packet,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,60 mg + 180 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Oral liquid,50 mg/5 mL (as phosphate or sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,150 mg (as phosphate or sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,20 mg + 160 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+as 153 mg or 200 mg (as hydrochloride) with 50 mg artesunate,Tablet,40 mg + 320 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Capsule,100 mg (as hydrochloride or hyclate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,doxycycline*,100 mg (as monohydrate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+dihydroartemisinin + piperaquine phosphate a,Tablet,250 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Tablet,7.5 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Tablet,15 mg (as diphosphate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Injection,300 mg/mL (hydrochloride) in 2 mL ampoule,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+dihydroartemisinin + piperaquine phosphate a,Tablet,300 mg (sulfate) or 300 mg (bisulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Tablet,500 mg + 25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Oral liquid,50 mg/5 mL (as phosphate or sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+dihydroartemisinin + piperaquine phosphate a,Tablet,150 mg (as phosphate or sulfate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+dihydroartemisinin + piperaquine phosphate a,Solid,100 mg (as hydrochloride or hyclate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,20
+doxycycline a,Tablet,250 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,100 mg (as hydrochloride),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,250 mg + 12.5 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,500 mg + 25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,25 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,500 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Injection,80 mg + 16 mg/mL in 5 mL ampoule,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+mefloquine a,Injection,80 mg +,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+mefloquine a,Oral liquid,200 mg + 40 mg/5 mL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,bottle,20
+mefloquine a,Tablet,100 mg + 20 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,400 mg + 80 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,800 mg + 160 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,200 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,300 mg (as isethionate),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,600 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Powder for injection,300 mg (as isetionate) in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+mefloquine a,Powder for injection,1 g in vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+mefloquine a,Injection,200 mg/mL (hydrochloride) in 50 mL bottle,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+mefloquine a,Injection,180 mg/5 mL in 5 mL ampoule (3.6% solution),WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,20
+mefloquine a,Tablet,30 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,120 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+mefloquine a,Tablet,12.5 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,20
+benznidazole,Tablet,50 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+benznidazole,Tablet,100 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+benznidazole,nifurtimox,30 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benznidazole,nifurtimox,120 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benznidazole,Tablet,3 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,strip,25
+benznidazole,ansuvimab,400 mg,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benznidazole,Injection,241.7 mg + 241.7 mg + 241.7 mg in 14.5 mL vial,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,vial,25
+benznidazole,The,living guideline is available online at: https://app.magicapp.org/#/guideline/nBkO1E,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benznidazole,The,living guideline is available online at: https://app.magicapp.org/#/guideline/L6RxYL,WHO EML 2023,Complementary,6. ANTI-INFECTIVE MEDICINES,unit,25
+benznidazole,Tablet,300 mg to 500 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,25
+benznidazole,Oral liquid,100 mg/5 mL,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,bottle,25
+benznidazole,Tablet,200 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,25
+benznidazole,Tablet,400 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,25
+benznidazole,Oral liquid,120 mg/5 mL or 125 mg/5 mL*,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,bottle,25
+benznidazole,Oral liquid,250 mg/5 mL,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,bottle,25
+paracetamol (acetaminophen),Suppository,250 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,unit,20
+paracetamol (acetaminophen),Tablet,250 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Tablet,325 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Tablet,500 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Tablet,"100 mg, 250 mg",WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Tablet,50 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Tablet,20 mg,WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Tablet,40 mg (hydrochloride),WHO EML 2023,Core,7. ANTIMIGRAINE MEDICINES,strip,20
+paracetamol (acetaminophen),Oral liquid,10 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,bottle,20
+paracetamol (acetaminophen),Powder for injection,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+paracetamol (acetaminophen),Powder for injection,100 mg (as sodium salt) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+azathioprine,Tablet,25 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+azathioprine,Tablet,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+azathioprine,Capsule,25 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+azathioprine,ciclosporin,50 mg/mL in 1 mL ampoule,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+azathioprine,Oral liquid,100 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,bottle,20
+azathioprine,Capsule,0.5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+azathioprine,Capsule,0.75 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+azathioprine,Capsule,1 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+azathioprine,Capsule,2 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+tacrolimus,Granules,0.2 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,packet,20
+tacrolimus,Granules,1 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,packet,20
+tacrolimus,Injection,5 mg/mL in 1 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+tacrolimus,Concentrate,1 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+tacrolimus,Concentrate,2 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+arsenic trioxide,asparaginase*,10 000 IU in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+arsenic trioxide,Injection,45 mg/0.5 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+arsenic trioxide,Injection,180 mg/2 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+bendamustine,Powder for injection,15 000 IU (as sulfate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+bleomycin,Injection,3 mg/mL in 10 mL ampoule,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+bleomycin,Injection,7.5 mg/mL in 2 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+bleomycin,Tablet,5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bleomycin,Tablet,15 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bleomycin,Tablet,25 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+calcium folinate (leucovorin calcium),Tablet,150 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+calcium folinate (leucovorin calcium),Tablet,500 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+capecitabine,Injection,50 mg/5 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+capecitabine,Injection,150 mg/15 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+capecitabine,Injection,450 mg/45 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+capecitabine,Tablet,2 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+chlorambucil,Injection,10 mg/10 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+chlorambucil,Injection,20 mg/20 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+chlorambucil,Injection,50 mg/50 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+chlorambucil,Powder for injection,500 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+chlorambucil,Powder for injection,1 g,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+chlorambucil,Powder for injection,2 g in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+chlorambucil,Solid,25 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+chlorambucil,Solid,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+cyclophosphamide,Injection,100 mg/mL in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+cyclophosphamide,Powder for injection,100 mg in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+cyclophosphamide,Powder for injection,100 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+cyclophosphamide,Powder for injection,200 mg in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+dacarbazine,Powder for injection,500 micrograms in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+dacarbazine,Injection,2 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+dacarbazine,Injection,5 mg/mL (as hydrochloride) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+dacarbazine,Powder for injection,20 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+dacarbazine,Powder for injection,50 mg (as hydrochloride) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+daunorubicin,Injection,20 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+daunorubicin,Injection,40 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+daunorubicin,Injection,2 mg/mL (hydrochloride) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+daunorubicin,Powder for injection,10 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+daunorubicin,Powder for injection,50 mg (hydrochloride) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+doxorubicin,Injection,"2 mg/mL (hydrochloride) in 10 mL, 25 mL vial",WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+doxorubicin (as pegylated liposomal),Capsule,"50 mg, 100 mg",WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+doxorubicin (as pegylated liposomal),Injection,20 mg/mL in 5 mL ampoule,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+doxorubicin (as pegylated liposomal),Powder for injection,100 mg (as phosphate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+etoposide,Powder for injection,50 mg (phosphate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+etoposide,Tablet,10 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+etoposide,Injection,50 mg/mL in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+etoposide,Powder for injection,200 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+etoposide,Powder for injection,1 g in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+gemcitabine,Solid,100 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+gemcitabine,Solid,200 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+gemcitabine,Solid,300 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+gemcitabine,Solid,400 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+hydroxycarbamide (hydroxyurea),Powder for injection,500 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+hydroxycarbamide (hydroxyurea),Powder for injection,1 g,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+hydroxycarbamide (hydroxyurea),Powder for injection,2 g in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+ifosfamide,Injection,40 mg/2 mL in 2 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+ifosfamide,Injection,100 mg/5 mL in 5 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+irinotecan,Tablet,2 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+irinotecan,melphalan,50 mg in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+irinotecan,Tablet,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+irinotecan,Oral liquid,20 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,bottle,20
+mercaptopurine,Concentrated,1000 mg/10 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+mercaptopurine,Injection,50mg/2 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+mercaptopurine,Powder for injection,50 mg (as sodium) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+mercaptopurine,Tablet,2.5 mg (as sodium),WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+methotrexate,Injection,50 mg/10 mL in 10 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+methotrexate,Injection,100 mg/20 mL in 20 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+methotrexate,oxaliplatin,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+methotrexate,oxaliplatin,100 mg in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+methotrexate,Injection,6 mg/mL in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+paclitaxel,Injection,3750 units/5 mL in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+paclitaxel,Powder for injection,3750 units in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+paclitaxel,Capsule,50 mg (as hydrochloride),WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+paclitaxel,Tablet,270 mg (containing tetra-arsenic tetra-sulfide 30 mg),WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+paclitaxel,Solid,40 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+paclitaxel,Injection,10 mg/10 mL (sulfate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+paclitaxel,Powder for injection,10 mg (sulfate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+vinblastine,Injection,1 mg/mL (sulfate),WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+vinblastine,Injection,2 mg/2 mL (sulfate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+vinblastine,Powder for injection,1 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+vinblastine,Powder for injection,5 mg (sulfate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+vincristine,Capsule,20 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+vincristine,Capsule,30 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+vincristine,Capsule,80 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+vincristine,Injection,"10 mg/mL in 1 mL, 5 mL vial",WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+vinorelbine,Capsule,10 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+vinorelbine,Powder for injection,3.5 mg in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+bortezomib,Tablet,20 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bortezomib,Tablet,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bortezomib,Tablet,70 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bortezomib,Tablet,80 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bortezomib,Tablet,100 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+bortezomib,Tablet,140 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dasatinib,Tablet,"100 mg, 150 mg",WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dasatinib,Tablet,2.5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dasatinib,Tablet,5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dasatinib,Tablet,7.5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dasatinib,Tablet,10 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dasatinib,everolimus,2 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+dasatinib,everolimus,3 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+dasatinib,everolimus,5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+dasatinib,Capsule,140 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+ibrutinib,Solid,100 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+ibrutinib,Solid,400 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+leukaemia,Capsule,150 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+leukaemia,Capsule,200 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+nilotinib,Injection,100 mg/10 mL in 10 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Powder for injection,60 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Powder for injection,150 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Powder for injection,440 mg in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Injection,120 micrograms/0.2 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Injection,300 micrograms/0.5 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Injection,300 micrograms/mL in 1 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+nilotinib,Injection,480 micrograms/1.6,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+regimens,Capsule,25 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+lenalidomide,Therapeutic,− Metastatic melanoma,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+lenalidomide,Injection,6 mg/0.6 mL in pre-filled syringe,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+regimens,Capsule,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+thalidomide,Therapeutic,− Metastatic castration-resistant prostate cancer,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+thalidomide,Therapeutic,− Early stage breast cancer,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+thalidomide,Tablet,50 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+thalidomide,Injection,4 mg/mL (as disodium phosphate salt) in 1 mL ampoule,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+thalidomide,Oral liquid,2 mg/5 mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,bottle,20
+thalidomide,Tablet,2 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+thalidomide,Tablet,4 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+dexamethasone,Powder for injection,100 mg (as sodium succinate) in vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+hydrocortisone,Injection,7.5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+hydrocortisone,Injection,22.5 mg in pre-filled syringe,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+hydrocortisone,Injection,40 mg/mL (as sodium succinate) in 1 mL single-dose,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+hydrocortisone,Oral liquid,5 mg/mL,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,bottle,20
+hydrocortisone,Tablet,5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+hydrocortisone,Tablet,25 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+hydrocortisone,Therapeutic,− Chronic lymphocytic leukaemia,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+hydrocortisone,Tablet,10 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+hydrocortisone,Tablet,20 mg (as citrate),WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+tamoxifen,Tablet,100 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+tamoxifen,Tablet,300 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+tamoxifen,Injection,100 mg/mL in 4 mL and 10 mL ampoules,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+tamoxifen,Tablet,400 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+tamoxifen,Tablet,600 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,strip,20
+mesna,Powder,1.5 mg,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,packet,20
+mesna,Powder,7.5 mg in,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,packet,20
+rasburicase,Concentrate solution for infusion,4 mg/5 mL in 5 mL vial,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,vial,20
+rasburicase,zoledronic,4 mg/100 mL in 100 mL bottle,WHO EML 2023,Complementary,8. IMMUNOMODULATORS AND ANTINEOPLASTICS,unit,20
+statement on the community-based management of severe acute,Oral liquid,equivalent to 25 mg iron (as sulfate)/mL,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,bottle,20
+ferrous salt,Tablet,equivalent to 60 mg iron,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,strip,20
+ferrous salt,Tablet,equivalent to 60 mg elemental iron + 400 micrograms folic,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,strip,20
+ferrous salt,Tablet,equivalent to 60 mg elemental iron + 2.8 mg folic acid.**,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,strip,20
+ferrous salt,Tablet,400 micrograms*,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,strip,20
+ferrous salt,Tablet,1 mg,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,strip,20
+ferrous salt,Tablet,5 mg,WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,strip,20
+tube defects,Injection,"1 mg/mL (as acetate, as hydrochloride or as sulfate) in",WHO EML 2023,Core,10. MEDICINES AFFECTING THE BLOOD,vial,20
+hydroxocobalamin,Injection,pre-filled syringe,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+hydroxocobalamin,Capsule,110 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+hydroxocobalamin,Capsule,150 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+hydroxocobalamin,Injection,ampoule or pre-filled syringe,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+hydroxocobalamin,Injection,1000 IU/mL,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+hydroxocobalamin,Injection,5000 IU/mL,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+hydroxocobalamin,Injection,20 000 IU/mL in 1 mL,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+heparin sodium,Injection,1 mg/mL,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+heparin sodium,Injection,10 mg/mL in ampoule,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+phytomenadione,Tablet,10 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Injection,10 mg/mL in 5 mL ampoule,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+phytomenadione,Injection,100 mg/mL in 10 mL ampoule,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+phytomenadione,Tablet,1 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,2 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,5 mg (sodium),WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Injection,4 micrograms/mL (as acetate) in 1 mL ampoule,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+phytomenadione,Nasal,10 micrograms (as acetate) per dose,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,unit,20
+phytomenadione,Injection,1000 IU/mL,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+phytomenadione,Injection,5000 IU/mL in 1 mL ampoule,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,vial,20
+phytomenadione,Tablet,0.5 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,100 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,125 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,250 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,400 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,500 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,90 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,180 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,Tablet,360 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,strip,20
+phytomenadione,deferoxamine,500 mg (mesilate) in vial,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,unit,20
+phytomenadione,hydroxycarbamide,100 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,unit,20
+phytomenadione,hydroxycarbamide,200 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,unit,20
+phytomenadione,hydroxycarbamide,500 mg,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,unit,20
+phytomenadione,hydroxycarbamide,1 g,WHO EML 2023,Complementary,10. MEDICINES AFFECTING THE BLOOD,unit,20
+whole blood,Injection,250 micrograms in single-dose vial,WHO EML 2023,Core,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,vial,20
+whole blood,Injection,150 IU/mL in vial,WHO EML 2023,Core,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,vial,20
+whole blood,Injection,500 IU in vial,WHO EML 2023,Core,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,vial,20
+whole blood,Intramuscular,16% protein solution,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+whole blood,Subcutaneous,15%,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+whole blood,Subcutaneous,16% protein solution,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,Intravenous,5%,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,Intravenous,10% protein solution,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,coagulation,250 IU,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,coagulation,500 IU,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,coagulation,1000 IU in vial,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,Therapeutic,Powder for injection: 500 IU,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,Therapeutic,1000 IU in vial,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,Therapeutic,Injectable solution: 6%,WHO EML 2023,Complementary,11. BLOOD PRODUCTS OF HUMAN ORIGIN AND PLASMA SUBSTITUTES,unit,20
+normal immunoglobulin,Tablet,1.25 mg,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+normal immunoglobulin,Tablet,5 mg,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+normal immunoglobulin,glyceryl,500 micrograms,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,unit,20
+normal immunoglobulin,isosorbide,5 mg,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,unit,20
+normal immunoglobulin,Tablet,40 mg,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+normal immunoglobulin,Tablet,80 mg (hydrochloride),WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+normal immunoglobulin,Injection,250 micrograms/mL in 2 mL ampoule,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,vial,20
+normal immunoglobulin,Oral liquid,50 micrograms/mL,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,bottle,20
+normal immunoglobulin,Tablet,62.5 micrograms,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+normal immunoglobulin,Tablet,250 micrograms,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+normal immunoglobulin,Injection,100 micrograms/mL (as acid tartrate or hydrochloride),WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,vial,20
+epinephrine (adrenaline),Injection,20 mg/mL (hydrochloride) in 5 mL ampoule,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,vial,20
+epinephrine (adrenaline),Injection,2.5 mg/mL (hydrochloride) in 2 mL ampoule,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,vial,20
+verapamil,Tablet,40 mg,WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+verapamil,Tablet,80 mg (hydrochloride),WHO EML 2023,Core,12. CARDIOVASCULAR MEDICINES,strip,20
+verapamil,Injection,50 mg/mL (hydrochloride) in 3 mL ampoule,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,vial,20
+amiodarone,Tablet,100 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,200 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,400 mg (hydrochloride),WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Therapeutic,"Tablet: 5 mg (as maleate, mesylate or besylate)",WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+amiodarone,Tablet,1.25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Oral liquid,1 mg/mL (as hydrogen maleate),WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,bottle,20
+amiodarone,Tablet,2.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,10 mg (as hydrogen maleate),WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Powder for injection,20 mg (hydrochloride) in ampoule,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,vial,20
+amiodarone,Tablet,25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,50 mg (hydrochloride),WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Therapeutic,Oral liquid: 50 mg/5 mL,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+amiodarone,Solid,12.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+amiodarone,Solid,25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+amiodarone,Tablet,10 mg + 12.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,20 mg + 12.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+amiodarone,Tablet,20 mg + 25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,50 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,100 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,250 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,40 mg + 12.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,80 mg + 12.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,80 mg + 25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),sodium,50 mg in ampoule,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),Therapeutic,Tablet: 1.25 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),Therapeutic,5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),Injection,250 micrograms/mL in 2 mL ampoule,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,vial,20
+hydrochlorothiazide),Oral liquid,50 micrograms/mL,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,bottle,20
+hydrochlorothiazide),Tablet,62.5 micrograms,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,250 micrograms,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,2.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,10 mg (as hydrogen maleate),WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Injection,"10 mg/mL in 2 mL, 5 mL ampoule",WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,vial,20
+hydrochlorothiazide),Oral liquid,20 mg/5 mL,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,bottle,20
+hydrochlorothiazide),Oral liquid,50 mg/5 mL,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,bottle,20
+hydrochlorothiazide),Tablet,20 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,40 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Injection,100 micrograms/mL in 1 mL ampoule,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,vial,20
+hydrochlorothiazide),Tablet,125 micrograms,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,250 mg micrograms,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Injection,40 mg/mL (hydrochloride) in 5 mL vial,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,vial,20
+hydrochlorothiazide),Tablet,75 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Tablet,300 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),alteplase,10 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),alteplase,20 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),alteplase,50 mg in vial,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),streptokinase,1.5 million IU in vial,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),Tablet,10 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+hydrochlorothiazide),Therapeutic,Tablet: 100 mg + 20 mg + 2.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),Therapeutic,100 mg + 20 mg + 5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,unit,20
+hydrochlorothiazide),Tablet,100 mg + 20 mg + 5 mg + 50 mg + 12.5 mg,WHO EML 2023,Complementary,12. CARDIOVASCULAR MEDICINES,strip,20
+atorvastatin),Cream,2% (nitrate),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,20
+and triazole derivatives) excluding combinations,selenium,2%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,25
+and triazole derivatives) excluding combinations,sodium,15%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,25
+and triazole derivatives) excluding combinations,terbinafine,1% (hydrochloride),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,25
+and triazole derivatives) excluding combinations,Cream,2% (as calcium),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,25
+mupirocin,Ointment,2%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,20
+mupirocin,potassium,1:10 000,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+mupirocin,Cream,1%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,20
+silver sulfadiazine a,Cream,0.1% (as valerate),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,20
+silver sulfadiazine a,Cream,1% (acetate),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,20
+silver sulfadiazine a,benzoyl,5%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,Cream,50 micrograms/mL (0.005%),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,tube,20
+silver sulfadiazine a,Lotion,50 micrograms/mL (0.005%),WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,coal,5%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,fluorouracil,5%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,Therapeutic,Solution: 10% to 25%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,salicylic,5%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,urea,5%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,urea,10%,WHO EML 2023,Core,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,Tablet,2.5 mg,WHO EML 2023,Complementary,13. DERMATOLOGICAL MEDICINES,strip,20
+silver sulfadiazine a,Tablet,10 mg (as sodium),WHO EML 2023,Complementary,13. DERMATOLOGICAL MEDICINES,strip,20
+silver sulfadiazine a,Lotion,25%,WHO EML 2023,Complementary,13. DERMATOLOGICAL MEDICINES,unit,20
+silver sulfadiazine a,Cream,5%,WHO EML 2023,Complementary,13. DERMATOLOGICAL MEDICINES,tube,20
+permethrin,Lotion,1%,WHO EML 2023,Complementary,13. DERMATOLOGICAL MEDICINES,unit,20
+permethrin,fluorescein,1% (sodium salt),WHO EML 2023,Core,14. DIAGNOSTIC AGENTS,unit,20
+permethrin,Eye,0.5%,WHO EML 2023,Core,14. DIAGNOSTIC AGENTS,unit,20
+permethrin,Solution,5 g to 8 g iodine in 100 mL to 250 mL,WHO EML 2023,Complementary,14. DIAGNOSTIC AGENTS,unit,20
+permethrin,Solution,5% (digluconate),WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+permethrin,Therapeutic,Solution: 70% (denatured),WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+permethrin,Therapeutic,Solution: 10% (equivalent to 1% available iodine),WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+permethrin,Solution,containing ethanol 80% volume/volume,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+alcohol based hand rub,Solution,containing isopropyl alcohol 75% volume/volume,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+alcohol based hand rub,Liquid,(0.1% available chlorine) for solution,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+alcohol based hand rub,chlorine,(0.1% available chlorine) for solution,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+alcohol based hand rub,Solid,(0.1% available chlorine) for solution,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+o chloroxylenol,Solution,4.8%,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+derivatives),glutaral,2%,WHO EML 2023,Core,15. ANTISEPTICS AND DISINFECTANTS,unit,20
+derivatives),Tablet,5 mg (hydrochloride),WHO EML 2023,Core,16. DIURETICS,strip,20
+derivatives),Therapeutic,Oral liquid: 20 mg/5 mL,WHO EML 2023,Core,16. DIURETICS,unit,20
+derivatives),Therapeutic,50 mg/5 mL,WHO EML 2023,Core,16. DIURETICS,unit,20
+derivatives),Solid,25 mg,WHO EML 2023,Core,16. DIURETICS,unit,20
+derivatives),mannitol,10%,WHO EML 2023,Core,16. DIURETICS,unit,20
+derivatives),mannitol,20%,WHO EML 2023,Core,16. DIURETICS,unit,20
+derivatives),Tablet,25 mg,WHO EML 2023,Core,16. DIURETICS,strip,20
+derivatives),Therapeutic,Tablet (scored): 25 mg,WHO EML 2023,Complementary,16. DIURETICS,unit,20
+derivatives),mannitol,10%,WHO EML 2023,Complementary,16. DIURETICS,unit,20
+derivatives),mannitol,20%,WHO EML 2023,Complementary,16. DIURETICS,unit,20
+derivatives),Oral liquid,5 mg/5 mL,WHO EML 2023,Complementary,16. DIURETICS,bottle,20
+derivatives),Oral liquid,10 mg/5 mL,WHO EML 2023,Complementary,16. DIURETICS,bottle,20
+derivatives),Oral liquid,25 mg/5 mL,WHO EML 2023,Complementary,16. DIURETICS,bottle,20
+derivatives),Tablet,25 mg,WHO EML 2023,Complementary,16. DIURETICS,strip,20
+derivatives),Powder for injection,40 mg in vial,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,vial,20
+derivatives),Powder for oral liquid,20 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,bottle,20
+derivatives),Powder for oral liquid,40 mg sachets,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,bottle,20
+derivatives),Solid,10 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+derivatives),Solid,20 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+derivatives),Solid,40 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+inhibitors) excluding combinations,Injection,25 mg/mL (as hydrochloride) in 2 mL ampoule,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,vial,20
+inhibitors) excluding combinations,Oral liquid,75 mg/5 mL (as hydrochloride),WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,bottle,20
+antagonists) excluding combinations,Injection,4 mg/mL (as disodium phosphate salt) in 1 mL ampoule,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,vial,20
+antagonists) excluding combinations,Oral liquid,0.5 mg/5 mL,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,bottle,20
+antagonists) excluding combinations,Oral liquid,2 mg/5 mL,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,bottle,20
+antagonists) excluding combinations,Solid,0.5 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+antagonists) excluding combinations,Solid,0.75 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+antagonists) excluding combinations,Solid,1.5 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+antagonists) excluding combinations,Solid,4 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+antagonists) excluding combinations,Injection,5 mg/mL (hydrochloride) in 2 mL ampoule,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,vial,20
+antagonists) excluding combinations,Oral liquid,5 mg/5 mL,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,bottle,20
+metoclopramide a,Tablet,10 mg (hydrochloride),WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,strip,20
+metoclopramide a,Therapeutic,Oral liquid: 4 mg base/5 mL,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+metoclopramide a,Capsule,80 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,strip,20
+metoclopramide a,Capsule,125 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,strip,20
+metoclopramide a,Capsule,165 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,strip,20
+aprepitant,Powder,125 mg in sachet,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,packet,20
+aprepitant,Suppository,500 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+aprepitant,Tablet,500 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,strip,20
+aprepitant,Retention,100 mg/60 mL,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,Suppository,25 mg (acetate),WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,prednisolone,20 mg/100 mL (as sodium phosphate),WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,Therapeutic,Tablet: 7.5 mg (sennosides) (or traditional dosage forms),WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,glucose,75 m,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,sodium,75 m or mmol/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,chloride,65 m or mmol/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,potassium,20 m or mmol/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,citrate,10 mmol/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,osmolarity,245 mOsm/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,oral,13.5 g/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,sodium,2.6 g/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,potassium,1.5 g/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,trisodium,2.9 g/L,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,Solid,20 mg,WHO EML 2023,Complementary,17. GASTROINTESTINAL MEDICINES,unit,20
+hydrocortisone,Tablet,100 micrograms (acetate),WHO EML 2023,Core,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Tablet,5 mg,WHO EML 2023,Core,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Tablet,10 mg,WHO EML 2023,Core,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Tablet,20 mg,WHO EML 2023,Core,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Injection,200 mg (enanthate) in 1 mL ampoule,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+hydrocortisone,Therapeutic,Tablet: 5 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+hydrocortisone,Injection,40 IU/mL in 10 mL vial,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+hydrocortisone,Injection,100 IU/mL in 10 mL vial,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+hydrocortisone,Solid,(controlled-release tablets) 30 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+hydrocortisone,Solid,60 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+hydrocortisone,Therapeutic,80 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+hydrocortisone,Tablet,500 mg (hydrochloride),WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Injection,1 mg/mL,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+hydrocortisone,Oral liquid,50 mg/mL,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,bottle,20
+hydrocortisone,Tablet,50 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Tablet,25 micrograms,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Tablet,50 micrograms,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+hydrocortisone,Tablet,100 micrograms,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+levothyroxine,Tablet,60 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+levothyroxine,Tablet,"5mg, 10mg, 20mg",WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+levothyroxine,Tablet,50 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,strip,20
+levothyroxine,Oral liquid,about 130 mg total iodine/mL,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,bottle,20
+levothyroxine,Therapeutic,"Tablet: 5mg, 10mg, 20mg",WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+available,Therapeutic,Tablet: 0.5 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+available,Therapeutic,1 mg,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,unit,20
+available,Injection,0.05 mg/mL,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+available,Injection,0.1 mg/mL,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+octreotide,Injection,20 mg (as acetate) in vial plus,WHO EML 2023,Complementary,18. MEDICINES FOR ENDOCRINE DISORDERS,vial,20
+octreotide,Injection,"40 IU/mL in 1.25 mL, 2.5 mL vial",WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,100 IU/mL in 2.5 mL,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,10 000 IU,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,20 000 IU in vial,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,150 IU/mL,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,200 IU/mL,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,300 IU/mL,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,Injection,400 IU/mL in vial,WHO EML 2023,Core,19. IMMUNOLOGICALS,vial,20
+octreotide,https,//www.who.int/teams/immunization-vaccines-and-biologicals/policies/position-papers,WHO EML 2023,Core,19. IMMUNOLOGICALS,unit,20
+octreotide,https,//www.who.int/teams/immunization-vaccines-and-biologicals/policies/who-recommendations-for-routine-immunization---,WHO EML 2023,Core,19. IMMUNOLOGICALS,unit,20
+varicella vaccine,Injection,10 mg/mL (besylate),WHO EML 2023,Core,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,vial,10
+varicella vaccine,Injection,500 micrograms/mL (methylsulfate) in 1 mL ampoule,WHO EML 2023,Core,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,vial,10
+neostigmine,Tablet,15 mg (bromide),WHO EML 2023,Core,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,strip,20
+neostigmine,Injection,50 mg/mL (chloride) in 2 mL ampoule,WHO EML 2023,Core,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,vial,20
+suxamethonium,Powder for injection,"(chloride), in vial",WHO EML 2023,Core,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,vial,20
+suxamethonium,Therapeutic,Powder for injection: 10 mg (bromide) in vial,WHO EML 2023,Core,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,unit,20
+suxamethonium,Injection,1 mg in 1 mL ampoule,WHO EML 2023,Complementary,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,vial,20
+pyridostigmine,Tablet,60 mg (bromide),WHO EML 2023,Complementary,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,strip,20
+pyridostigmine,Powder for injection,10 mg (bromide) in vial,WHO EML 2023,Complementary,20. MUSCLE RELAXANTS (PERIPHERALLY-ACTING) AND CHOLINESTERASE INHIBITORS,vial,20
+pyridostigmine,aciclovir,3% w/w,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+pyridostigmine,Solution,1.5%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+azithromycin,Ointment,0.5%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,tube,20
+erythromycin,Therapeutic,Solution (eye drops): 0.3% (sulfate),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+erythromycin,Suspension,5%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+natamycin,Solution,0.3%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+natamycin,Eye,1% (hydrochloride),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+natamycin,Solution,0.5% (sodium phosphate),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+natamycin,Solution,0.5% (hydrochloride),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+anaesthetics) excluding cocaine and combinations,Tablet,250 mg,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,strip,20
+anaesthetics) excluding cocaine and combinations,latanoprost,50 micrograms/mL,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+anaesthetics) excluding cocaine and combinations,Therapeutic,Solution (eye drops): 2%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+anaesthetics) excluding cocaine and combinations,Therapeutic,4% (hydrochloride or nitrate),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+anaesthetics) excluding cocaine and combinations,Solution,0.25%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+anaesthetics) excluding cocaine and combinations,Solution,0.5% (as hydrogen maleate),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+agents) excluding combinations,Therapeutic,Solution (eye drops): 0.1%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+agents) excluding combinations,Therapeutic,0.5%,WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+agents) excluding combinations,Therapeutic,1% (sulfate),WHO EML 2023,Core,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+agents) excluding combinations,epinephrine,2% (as hydrochloride),WHO EML 2023,Complementary,21. OPHTHALMOLOGICAL PREPARATIONS,unit,20
+agents) excluding combinations,Injection,25 mg/mL,WHO EML 2023,Complementary,21. OPHTHALMOLOGICAL PREPARATIONS,vial,20
+agents) excluding combinations,Tablet,30 micrograms + 150 micrograms,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+agents) excluding combinations,Tablet,35 micrograms + 1 mg,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+agents) excluding combinations,Tablet,30 micrograms,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+agents) excluding combinations,Tablet,750 micrograms (pack of two),WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+agents) excluding combinations,Tablet,1.5 mg,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+agents) excluding combinations,Tablet,30 mg (as acetate),WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+estradiol cypionate + medroxyprogesterone,Injection,5 mg + 25 mg,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+acetate,Injection,150 mg mL in 1 mL vial,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+medroxyprogesterone acetate,Injection,104 mg/0.65 mL in pre-filled syringe or,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+medroxyprogesterone acetate,norethisterone,200 mg/mL in 1 mL ampoule,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+copper-containing device,Intrauterine,with reservoir containing 52 mg of,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+diaphragms,Single-rod,containing 68 mg of,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+etonogestrel-releasing implant,Two-rod,each rod containing,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+levonorgestrel-releasing implant,ethinylestradiol,containing 2.7 mg + 11.7 mg,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+levonorgestrel-releasing implant,Progesterone-releasing,containing 2.074 g of,WHO EML 2023,Core,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+levonorgestrel-releasing implant,Tablet,50 mg (citrate),WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+levonorgestrel-releasing implant,Therapeutic,Solid oral dosage form: 2.5 mg,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+levonorgestrel-releasing implant,carbetocin,100 micrograms/mL,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+levonorgestrel-releasing implant,Therapeutic,Injection: 200 micrograms (hydrogen maleate) in 1 mL ampoule,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+levonorgestrel-releasing implant,Tablet,200 micrograms,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+misoprostol,Vaginal tablet,25 micrograms.*,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,strip,20
+misoprostol,Injection,10 IU in 1 mL,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+misoprostol,nifedipine,10 mg,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+misoprostol,Injection,4 mg/mL (as disodium phosphate salt) in 1 mL ampoule,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+equivalent (400 micrograms),Injection,100 mg/mL in 10 mL ampoule,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+equivalent (400 micrograms),Injection,20 mg/mL (equivalent to 10 mg caffeine base/mL),WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,vial,20
+equivalent (400 micrograms),Oral liquid,20 mg/mL (equivalent to 10 mg caffeine base/mL),WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,bottle,20
+equivalent (400 micrograms),Solution,7.1% (digluconate) delivering 4% chlorhexidine (for,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+equivalent (400 micrograms),Therapeutic,Solution for injection: 5 mg/mL,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+equivalent (400 micrograms),Therapeutic,Solution for injection: 0.5 mg/mL in alcohol,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+equivalent (400 micrograms),surfactant,25 mg/mL or 80 mg/mL,WHO EML 2023,Complementary,22. MEDICINES FOR REPRODUCTIVE HEALTH AND PERINATAL CARE,unit,20
+equivalent (400 micrograms),intraperitoneal,of appropriate composition,WHO EML 2023,Complementary,23. PERITONEAL DIALYSIS SOLUTION,unit,20
+equivalent (400 micrograms),Injection,25 mg (decanoate or enantate) in 1 mL ampoule,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+equivalent (400 micrograms),Therapeutic,Tablet: 2 mg,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),Therapeutic,5 mg,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),Injection,5 mg/mL in 1 mL ampoule,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+equivalent (400 micrograms),olanzapine,10 mg in vial,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),Injection,25 mg,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+equivalent (400 micrograms),Injection,50 mg,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+equivalent (400 micrograms),Injection,75 mg,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+equivalent (400 micrograms),Injection,100 mg,WHO EML 2023,Core,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+equivalent (400 micrograms),clozapine,25 to 200 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),Tablet,25 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),Tablet,75mg (hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),Solid,20 mg (as hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),carbamazepine,100 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),carbamazepine,200 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),carbamazepine,400 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),lithium,300 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),Tablet,100 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),Tablet,150 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),Tablet,200 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),Therapeutic,300 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),Tablet,50 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),Tablet,300 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+equivalent (400 micrograms),bearing,200 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+equivalent (400 micrograms),bearing,500 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+birth defects and developmental disorders in children,Tablet,2 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+birth defects and developmental disorders in children,Tablet,5 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+anxiety symptoms only,Solid,20 mg (as hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+anxiety symptoms only,Capsule,10 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+anxiety symptoms only,Capsule,25 mg (hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+anxiety symptoms only,Tablet,333 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+anxiety symptoms only,Injection,380 mg in vial,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,vial,20
+naltrexone,Tablet,50 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+naltrexone,bupropion,150 mg (hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Chewing,2 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Chewing,4 mg (as polacrilex),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Lozenge,2 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+naltrexone,Lozenge,4 mg,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+naltrexone,Oral,1 mg per actuation,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Transdermal patch,5 mg to 30 mg/16 hrs,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Transdermal patch,7 mg to 21 mg/24 hrs,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Tablet,"0.5 mg, 1 mg",WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,strip,20
+naltrexone,Concentrate,5 mg/mL,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Concentrate,10 mg/mL (hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,unit,20
+naltrexone,Oral liquid,5 mg/5 mL,WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,bottle,20
+naltrexone,Oral liquid,10 mg/5 mL (hydrochloride),WHO EML 2023,Complementary,24. MEDICINES FOR MENTAL AND BEHAVIOURAL DISORDERS,bottle,20
+naltrexone,Injection,1 mg/mL (as hydrochloride or hydrogen tartrate) in,WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,vial,20
+epinephrine (adrenaline),ipratropium,20 micrograms/metered dose,WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,unit,20
+epinephrine (adrenaline),Inhalation,100 micrograms (as sulfate) per dose,WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,unit,20
+epinephrine (adrenaline),Injection,50 micrograms/mL (as sulfate) in 5 mL ampoule,WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,vial,20
+epinephrine (adrenaline),Metered,100 micrograms (as sulfate) per,WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,unit,20
+epinephrine (adrenaline),Respirator,5 mg/mL (as sulfate),WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,unit,20
+epinephrine (adrenaline),Therapeutic,"Powder for inhalaton, capsule: 18 micrograms",WHO EML 2023,Core,25. MEDICINES ACTING ON THE RESPIRATORY TRACT,unit,20
+epinephrine (adrenaline),Injectable,5% (isotonic),WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+epinephrine (adrenaline),Injectable,10% (hypertonic),WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+glucose,Injectable,"4% glucose, 0.18% sodium chloride",WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+glucose,glucose,"5% glucose, 0.9% sodium chloride (equivalent",WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+glucose,Solution,11.2% in 20 mL ampoule,WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+potassium chloride,Solution,7.5% (equivalent to K 1 mmol/mL and Cl,WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+potassium chloride,Injectable,"0.9% isotonic (equivalent to Na+ 154 mmol/L,",WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+sodium chloride,Injectable,"1.4% isotonic (equivalent to Na+ 167 mmol/L,",WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+sodium hydrogen carbonate,Solution,8.4% in 10 mL ampoule (equivalent to Na+,WHO EML 2023,Core,"26. SOLUTIONS CORRECTING WATER, ELECTROLYTE AND ACID–BASE DISTURBANCES",unit,20
+sodium hydrogen carbonate,Tablet,50 mg,WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+sodium hydrogen carbonate,Tablet,500 mg (elemental),WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+sodium hydrogen carbonate,Oral liquid,400 IU/mL,WHO EML 2023,Core,27. VITAMINS AND MINERALS,bottle,20
+sodium hydrogen carbonate,Solid,400 IU,WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+sodium hydrogen carbonate,Solid,1000 IU,WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+sodium hydrogen carbonate,Oral liquid,250 micrograms/mL (10 000 IU/mL),WHO EML 2023,Core,27. VITAMINS AND MINERALS,bottle,20
+sodium hydrogen carbonate,Solid,1.25 mg (50 000 IU),WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+sodium hydrogen carbonate,Capsule,190 mg,WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+sodium hydrogen carbonate,Iodized,1 mL (480 mg iodine),WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+sodium hydrogen carbonate,Iodized,0.5 mL (240 mg iodine) in,WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+values,Tablet,50 mg,WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+values,Tablet,25 mg (hydrochloride),WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+values,Capsule,50 000 IU,WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+values,Capsule,100 000 IU,WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+values,Capsule,200 000 IU (as palmitate),WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+values,Oral,100 000 IU/mL (as palmitate) in multidose,WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+retinol,Tablet,10 000 IU (as palmitate),WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+retinol,Water-miscible,100 000 IU (as palmitate) in,WHO EML 2023,Core,27. VITAMINS AND MINERALS,unit,20
+retinol,Tablet,5 mg,WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+retinol,Tablet,50 mg (hydrochloride),WHO EML 2023,Core,27. VITAMINS AND MINERALS,strip,20
+retinol,Injection,100 mg/mL in 10 mL ampoule,WHO EML 2023,Complementary,27. VITAMINS AND MINERALS,vial,20
+retinol,acetic,"2%, in alcohol",WHO EML 2023,Core,"28. EAR, NOSE AND THROAT MEDICINES",unit,20
+retinol,Nasal,100 micrograms per dose,WHO EML 2023,Core,"28. EAR, NOSE AND THROAT MEDICINES",unit,20
+retinol,Solution,0.3% (as hydrochloride),WHO EML 2023,Core,"28. EAR, NOSE AND THROAT MEDICINES",unit,20
+retinol,Tablet,100 mg,WHO EML 2023,Core,29. MEDICINES FOR DISEASES OF JOINTS,strip,20
+retinol,Tablet,150 mg (as phosphate or sulfate),WHO EML 2023,Core,29. MEDICINES FOR DISEASES OF JOINTS,strip,20
+retinol,Tablet,50 mg,WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,strip,20
+retinol,hydroxychloroquine,200 mg (as sulfate),WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,unit,20
+retinol,Tablet,2.5 mg (as sodium),WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,strip,20
+retinol,penicillamine,250 mg,WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,unit,20
+retinol,Tablet,500 mg,WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,strip,20
+retinol,Suppository,50 mg to 150 mg,WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,unit,20
+retinol,Tablet,100 mg to 500 mg,WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,strip,20
+retinol,Therapeutic,Injection: 20 mg/mL in vial,WHO EML 2023,Complementary,29. MEDICINES FOR DISEASES OF JOINTS,unit,20
+retinol,Gel,containing 2500 to 12 500 ppm fluoride (any type),WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+retinol,Mouthrinse,containing 230 to 900 ppm fluoride (any type),WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,"Toothpaste,",containing 1000 to 1500 ppm fluoride,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,Varnish,containing 22 500 ppm fluoride (any type),WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,Single-use,0.4 g powder + 0.09 mL liquid,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,Multi-use,powder + liquid,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,glass,"25-50% silicate, 20-40%",WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,quantities.,"7-25% polybasic carboxylic acid,",WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,silver,38% w/v,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,Table,Medicines with age or weight restrictions,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,Table,Explanation of dosage forms,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,in,gastro-,WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,Topical,"lotions, paints",WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20
+fluoride,For,"cream, ointment",WHO EML 2023,Core,30. DENTAL MEDICINES AND PREPARATIONS,unit,20

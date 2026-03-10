@@ -1,0 +1,23 @@
+<h2>Prescription Medicines</h2>
+
+<table border="1">
+<tr>
+  <th>Medicine</th>
+  <th>Strength</th>
+  <th>Qty</th>
+  <th>Issue</th>
+</tr>
+
+{% for i in items %}
+<tr>
+  <td>{{ i.generic_name }}</td>
+  <td>{{ i.strength }}</td>
+  <td>{{ i.quantity }}</td>
+  <td>
+    <a href="/issue/{{ i.item_id }}">
+      Issue
+    </a>
+  </td>
+</tr>
+{% endfor %}
+</table>

@@ -1,0 +1,8 @@
+Normalization Proof (JanSwasthya DBMS)
+1NF:
+All tables contain atomic values. Multi-valued attributes like medicines per prescription are stored using a separate table prescription_items, ensuring one row per medicine item.
+2NF:
+All tables are in 1NF and use single-column primary keys (e.g., patient_id, visit_id, prescription_id). Therefore, there is no partial dependency, and 2NF is satisfied.
+3NF:
+Non-key attributes depend only on the primary key. For example, doctor details are stored in doctors, department details in departments, and visit-specific data in visits. This prevents transitive dependency and ensures 3NF.
+

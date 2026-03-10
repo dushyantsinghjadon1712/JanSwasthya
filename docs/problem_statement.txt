@@ -1,0 +1,37 @@
+JanSwasthya DBMS Project
+
+A Government Hospital OPD system that manages:
+Patients ? OPD Tokens ? Doctor Visits ? Prescriptions ? Medicine Stock ? Low-stock alerts + Reports
+
+In many government hospitals in India, OPD management is largely manual. Patients face long waiting times and confusion due to unstructured token systems. Doctors often lack quick access to patient visit history and prescriptions. Additionally, hospital pharmacies frequently face medicine stock-outs because inventory tracking is done manually or inconsistently.
+This results in delays, poor service quality, and lack of transparency in medicine usage.
+The JanSwasthya system aims to digitize OPD workflow by managing patient registration, OPD token generation, doctor consultation records, prescriptions, medicine stock inventory, and low-stock alerts.
+
+Objectives
+1. Provide a structured Patient Registration system
+2. Generate OPD tokens department-wise for smooth queue management
+3. Store patient visit history and consultation details
+4. Manage digital prescriptions for each visit
+5. Track medicine stock using batch + expiry-based inventory
+6. Generate low-stock alerts automatically
+7. Provide reports for hospital administration (daily OPD load, expiring medicines, most used medicines)
+
+
+
+
+
+System Users
+* Receptionist / OPD Staff: register patients, issue tokens
+* Doctor: view visits, create prescription
+* Pharmacist: manage stock IN/OUT, check alerts
+* Hospital Admin: views reports, audits medicine usage
+
+DBMS Concepts Used
+* ER Modeling
+* Normalization (up to 3NF)
+* Primary/Foreign Keys
+* Constraints
+* Triggers (low-stock alerts)
+* Stored Procedures (token issuance)
+* Views (reporting)
+

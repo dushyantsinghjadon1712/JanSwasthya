@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div id="queueApp">
+
+<h2 class="text-2xl font-bold mb-6 text-indigo-400">
+Live OPD Queue
+</h2>
+
+<div class="glass rounded-xl overflow-hidden">
+
+<table class="w-full text-center">
+
+<tr class="bg-indigo-600/30">
+<th class="p-4">Token</th>
+<th>Patient</th>
+<th>Doctor</th>
+</tr>
+
+<tr v-for="t in tokens"
+ class="border-b border-white/10 hover:bg-white/5">
+
+<td class="p-4 font-bold text-indigo-300">
+[[ t.token_no ]]
+</td>
+
+<td>[[ t.full_name ]]</td>
+<td>[[ t.doctor_name ]]</td>
+
+</tr>
+
+</table>
+</div>
+
+</div>
+
+<script>
+Vue.createApp({
+
+ delimiters: ['[[', ']]'],
+
+ data(){
+  return {
+   tokens: []
+  }
+ },
+
+ mounted(){
+  this.fetchData()
+  setInterval(this.fetchData, 4000)
+ },
+
+ methods:{
+  fetchData(){
+   fetch('/queue_data')
+   .then(r => r.json())
+   .then(d => this.tokens = d)
+  }
+ }
+
+}).mount('#queueApp')
+</script>
+
+{% endblock %}

@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<div class="glass p-10 rounded-xl w-2/3">
+
+
+<h2 class="text-2xl text-indigo-400 mb-6">
+Create Visit & Generate Token
+</h2>
+
+
+<form method="POST" class="space-y-4">
+
+
+<select name="patient_id"
+ class="w-full p-3 bg-black/40 rounded">
+
+<option value="">Select Patient</option>
+
+{% for p in patients %}
+<option value="{{ p.patient_id }}">
+  {{ p.full_name }}
+</option>
+{% endfor %}
+
+</select>
+
+
+
+<select name="doctor_id"
+ class="w-full p-3 bg-black/40 rounded">
+
+<option value="">Select Doctor</option>
+
+{% for d in doctors %}
+<option value="{{ d.doctor_id }}">
+  {{ d.doctor_name }}
+</option>
+{% endfor %}
+
+</select>
+
+
+<textarea name="symptoms"
+placeholder="Symptoms"
+class="w-full p-3 bg-black/40 rounded"></textarea>
+
+
+<button class="bg-indigo-600 px-6 py-2 rounded">
+Generate Token
+</button>
+
+
+</form>
+</div>
+
+
+{% endblock %}

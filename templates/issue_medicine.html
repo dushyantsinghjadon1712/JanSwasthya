@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block content %}
+
+
+<div class="glass p-10 rounded-xl w-2/3">
+
+
+<h2 class="text-xl text-red-400 mb-6">
+Issue Medicines
+</h2>
+
+
+<table class="w-full text-center">
+
+
+<tr class="bg-red-600/30">
+<th class="p-3">Medicine</th>
+<th>Dosage</th>
+<th>Days</th>
+</tr>
+
+
+{% for i in items %}
+<tr class="border-b border-white/10">
+<td class="p-3">{{ i.generic_name }}</td>
+<td>{{ i.dosage }}</td>
+<td>{{ i.days }}</td>
+</tr>
+{% endfor %}
+
+
+</table>
+
+
+<form method="POST"
+ action="/issue_medicine/{{ request.view_args.pid }}">
+
+<button
+ class="bg-green-600 px-6 py-2 mt-6 rounded
+        hover:bg-green-700 transition">
+
+ Issue Completed
+</button>
+
+
+</div>
+
+
+{% endblock %}

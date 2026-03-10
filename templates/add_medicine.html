@@ -1,0 +1,19 @@
+<h2>Add Medicines</h2>
+
+<form method="POST">
+
+<select name="medicine_id">
+{% for m in medicines %}
+  <option value="{{ m.medicine_id }}">
+    {{ m.generic_name }} - {{ m.strength }}
+  </option>
+{% endfor %}
+</select>
+
+<input name="dosage" placeholder="Dosage (1-0-1)">
+<input name="days" placeholder="Days">
+<input name="qty" placeholder="Quantity">
+
+<button type="submit">Add Medicine</button>
+
+</form>

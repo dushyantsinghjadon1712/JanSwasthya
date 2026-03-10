@@ -1,0 +1,15 @@
+PK-FK mapping doc
+
+* departments.department_id ? doctors.department_id
+* patients.patient_id ? visits.patient_id
+* doctors.doctor_id ? visits.doctor_id
+* departments.department_id ? visits.department_id
+* visits.visit_id ? opd_tokens.visit_id
+* visits.visit_id ? prescriptions.visit_id
+* prescriptions.prescription_id ? prescription_items.prescription_id
+* medicines.medicine_id ? medicine_batches.medicine_id
+* suppliers.supplier_id ? medicine_batches.supplier_id
+* medicine_batches.batch_id ? stock_transactions.batch_id
+* medicine_batches.batch_id ? prescription_items.batch_id
+* medicines.medicine_id ? low_stock_alerts.medicine_id
+

@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h2 class="text-2xl text-red-400 mb-6">
+Low Stock Alerts
+</h2>
+
+<table class="w-full text-center glass">
+
+<tr class="bg-red-600/30">
+<th>Medicine</th>
+<th>Stock</th>
+<th>Reorder Level</th>
+</tr>
+
+{% for m in medicines %}
+
+<tr class="border-b border-white/10">
+
+<td>{{ m.generic_name }}</td>
+<td class="text-red-400 font-bold">
+  {{ m.stock }}
+</td>
+<td>{{ m.reorder_level }}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}
